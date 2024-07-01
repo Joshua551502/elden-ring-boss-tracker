@@ -259,7 +259,7 @@ body {
 
 /* Toggle button style */
 .toggle-button {
-  background-color: #007bff;
+  background-color: #ff7b00;
   border: none;
   color: #fff;
   padding: 10px 20px;
@@ -274,5 +274,5 @@ body {
 }
 
 .toggle-button:hover {
-  background-color: #0056b3;
+  background-color: #b65800;
 }
