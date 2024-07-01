@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/your-repo-name/static/css/main.ea5f71eb.css",
-    "main.js": "/your-repo-name/static/js/main.04feae29.js",
-    "static/js/453.72a67bee.chunk.js": "/your-repo-name/static/js/453.72a67bee.chunk.js",
-    "static/media/maliketh.jpg": "/your-repo-name/static/media/maliketh.ca83b41365c14a6e35aa.jpg",
-    "static/media/radahn.jpg": "/your-repo-name/static/media/radahn.30fff1a34865edcdeb65.jpg",
-    "static/media/godskin_duo.jpg": "/your-repo-name/static/media/godskin_duo.979ef41eaa0a8d7e23d9.jpg",
-    "static/media/rennala.jpg": "/your-repo-name/static/media/rennala.e38c26437b084fdbc86e.jpg",
-    "static/media/godrick.jpg": "/your-repo-name/static/media/godrick.e4cad72153edfbf55505.jpg",
-    "static/media/hoarah_loux.jpg": "/your-repo-name/static/media/hoarah_loux.d9cd08e8c8725a786f40.jpg",
-    "static/media/radagon.jpg": "/your-repo-name/static/media/radagon.ceab910a5c36b2d2044b.jpg",
-    "static/media/red_wolf.jpg": "/your-repo-name/static/media/red_wolf.109137a39309fa102642.jpg",
-    "static/media/margit.jpg": "/your-repo-name/static/media/margit.605363dcbb5e484f36ae.jpg",
-    "static/media/fire_giant.jpg": "/your-repo-name/static/media/fire_giant.8b130638d2a9cb224e81.jpg",
-    "static/media/Mantinia Regular.otf": "/your-repo-name/static/media/Mantinia Regular.17509f704db56aefbca6.otf",
-    "static/media/morgott.jpg": "/your-repo-name/static/media/morgott.f7e68ffba37e7832d9e0.jpg",
-    "index.html": "/your-repo-name/index.html",
-    "main.ea5f71eb.css.map": "/your-repo-name/static/css/main.ea5f71eb.css.map",
-    "main.04feae29.js.map": "/your-repo-name/static/js/main.04feae29.js.map",
-    "453.72a67bee.chunk.js.map": "/your-repo-name/static/js/453.72a67bee.chunk.js.map"
+    "main.css": "/elden-ring-boss-tracker/static/css/main.fc812f01.css",
+    "main.js": "/elden-ring-boss-tracker/static/js/main.5b7ba92f.js",
+    "static/js/453.72a67bee.chunk.js": "/elden-ring-boss-tracker/static/js/453.72a67bee.chunk.js",
+    "static/media/maliketh.jpg": "/elden-ring-boss-tracker/static/media/maliketh.ca83b41365c14a6e35aa.jpg",
+    "static/media/radahn.jpg": "/elden-ring-boss-tracker/static/media/radahn.30fff1a34865edcdeb65.jpg",
+    "static/media/godskin_duo.jpg": "/elden-ring-boss-tracker/static/media/godskin_duo.979ef41eaa0a8d7e23d9.jpg",
+    "static/media/rennala.jpg": "/elden-ring-boss-tracker/static/media/rennala.e38c26437b084fdbc86e.jpg",
+    "static/media/godrick.jpg": "/elden-ring-boss-tracker/static/media/godrick.e4cad72153edfbf55505.jpg",
+    "static/media/hoarah_loux.jpg": "/elden-ring-boss-tracker/static/media/hoarah_loux.d9cd08e8c8725a786f40.jpg",
+    "static/media/radagon.jpg": "/elden-ring-boss-tracker/static/media/radagon.ceab910a5c36b2d2044b.jpg",
+    "static/media/red_wolf.jpg": "/elden-ring-boss-tracker/static/media/red_wolf.109137a39309fa102642.jpg",
+    "static/media/margit.jpg": "/elden-ring-boss-tracker/static/media/margit.605363dcbb5e484f36ae.jpg",
+    "static/media/fire_giant.jpg": "/elden-ring-boss-tracker/static/media/fire_giant.8b130638d2a9cb224e81.jpg",
+    "static/media/Mantinia Regular.otf": "/elden-ring-boss-tracker/static/media/Mantinia Regular.17509f704db56aefbca6.otf",
+    "static/media/morgott.jpg": "/elden-ring-boss-tracker/static/media/morgott.f7e68ffba37e7832d9e0.jpg",
+    "index.html": "/elden-ring-boss-tracker/index.html",
+    "main.fc812f01.css.map": "/elden-ring-boss-tracker/static/css/main.fc812f01.css.map",
+    "main.5b7ba92f.js.map": "/elden-ring-boss-tracker/static/js/main.5b7ba92f.js.map",
+    "453.72a67bee.chunk.js.map": "/elden-ring-boss-tracker/static/js/453.72a67bee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ea5f71eb.css",
-    "static/js/main.04feae29.js"
+    "static/css/main.fc812f01.css",
+    "static/js/main.5b7ba92f.js"
   ]
 }
