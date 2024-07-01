@@ -36,7 +36,12 @@ body {
   justify-content: space-between;
   padding: 10px;
   border-bottom: 1px solid #333;
+  transition: background-color 0.2s;
   cursor: pointer;
+}
+
+.boss-item:hover {
+  background-color: #ff0000;
 }
 
 .boss-name {
@@ -46,11 +51,12 @@ body {
 }
 
 .boss-image {
-  width: 40px;
-  height: 40px;
+  width: 60px;
+  height: 60px;
   margin-right: 10px;
-  border-radius: 20px;
+  border-radius: 50%;
   object-fit: cover; /* Ensures image is cropped to fit */
+  border: 2px solid #ffcc00;
 }
 
 .button-group {
@@ -172,11 +178,11 @@ body {
 }
 
 .modal-boss-image {
-  width: 150px;
-  height: 150px;
+  width: 200px;
+  height: 200px;
   margin: 20px auto;
   display: block;
-  border-radius: 10px;
+  border-radius: 0px;
   object-fit: cover;
 }
 
