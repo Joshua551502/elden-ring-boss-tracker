@@ -282,3 +282,9 @@ body {
 .toggle-button:hover {
   background-color: #b65800;
 }
+
+
+.title-items{
+  display: flex;
+  flex-direction: column;
+}
