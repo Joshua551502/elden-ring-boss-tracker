@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/elden-ring-boss-tracker/static/css/main.45090e68.css",
-    "main.js": "/elden-ring-boss-tracker/static/js/main.2f79db62.js",
+    "main.js": "/elden-ring-boss-tracker/static/js/main.12d98093.js",
     "static/js/453.72a67bee.chunk.js": "/elden-ring-boss-tracker/static/js/453.72a67bee.chunk.js",
     "static/media/tree_sentinel.jpg": "/elden-ring-boss-tracker/static/media/tree_sentinel.1da8f84a7de2cc7fc8ab.jpg",
     "static/media/draconic_tree_sentinel.jpg": "/elden-ring-boss-tracker/static/media/draconic_tree_sentinel.97741021648687853dda.jpg",
@@ -29,15 +29,16 @@
     "static/media/promised_consort_radahn.jpg": "/elden-ring-boss-tracker/static/media/promised_consort_radahn.24f4bb43c26bdf5ded5e.jpg",
     "static/media/midra_lord_of_frenzied_flame.jpg": "/elden-ring-boss-tracker/static/media/midra_lord_of_frenzied_flame.b83f186590d5e1f913db.jpg",
     "static/media/Mantinia Regular.otf": "/elden-ring-boss-tracker/static/media/Mantinia Regular.17509f704db56aefbca6.otf",
+    "static/media/crucible_knight.jpg": "/elden-ring-boss-tracker/static/media/crucible_knight.acf1dde1766d7f7153ab.jpg",
     "static/media/golden_order_logo.jpg": "/elden-ring-boss-tracker/static/media/golden_order_logo.14d54f68e5f5c0ec2344.jpg",
     "static/media/morgott.jpg": "/elden-ring-boss-tracker/static/media/morgott.f7e68ffba37e7832d9e0.jpg",
     "index.html": "/elden-ring-boss-tracker/index.html",
     "main.45090e68.css.map": "/elden-ring-boss-tracker/static/css/main.45090e68.css.map",
-    "main.2f79db62.js.map": "/elden-ring-boss-tracker/static/js/main.2f79db62.js.map",
+    "main.12d98093.js.map": "/elden-ring-boss-tracker/static/js/main.12d98093.js.map",
     "453.72a67bee.chunk.js.map": "/elden-ring-boss-tracker/static/js/453.72a67bee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45090e68.css",
-    "static/js/main.2f79db62.js"
+    "static/js/main.12d98093.js"
   ]
 }
