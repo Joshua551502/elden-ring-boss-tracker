@@ -1,10 +1,12 @@
 {
   "files": {
-    "main.css": "/elden-ring-boss-tracker/static/css/main.4156bfb4.css",
-    "main.js": "/elden-ring-boss-tracker/static/js/main.55a8a21a.js",
+    "main.css": "/elden-ring-boss-tracker/static/css/main.45090e68.css",
+    "main.js": "/elden-ring-boss-tracker/static/js/main.2f79db62.js",
     "static/js/453.72a67bee.chunk.js": "/elden-ring-boss-tracker/static/js/453.72a67bee.chunk.js",
     "static/media/tree_sentinel.jpg": "/elden-ring-boss-tracker/static/media/tree_sentinel.1da8f84a7de2cc7fc8ab.jpg",
+    "static/media/draconic_tree_sentinel.jpg": "/elden-ring-boss-tracker/static/media/draconic_tree_sentinel.97741021648687853dda.jpg",
     "static/media/maliketh.jpg": "/elden-ring-boss-tracker/static/media/maliketh.ca83b41365c14a6e35aa.jpg",
+    "static/media/malenia.jpg": "/elden-ring-boss-tracker/static/media/malenia.da86bf76f35e84a5a5d4.jpg",
     "static/media/commander_gaius.jpg": "/elden-ring-boss-tracker/static/media/commander_gaius.b7fcb182fa056fae443d.jpg",
     "static/media/radahn.jpg": "/elden-ring-boss-tracker/static/media/radahn.30fff1a34865edcdeb65.jpg",
     "static/media/bayle_the_dread.jpg": "/elden-ring-boss-tracker/static/media/bayle_the_dread.3027ea269e87e881508a.jpg",
@@ -14,6 +16,7 @@
     "static/media/rennala.jpg": "/elden-ring-boss-tracker/static/media/rennala.e38c26437b084fdbc86e.jpg",
     "static/media/godrick.jpg": "/elden-ring-boss-tracker/static/media/godrick.e4cad72153edfbf55505.jpg",
     "static/media/metyr_mother_of_fingers.jpg": "/elden-ring-boss-tracker/static/media/metyr_mother_of_fingers.022171b1b00a6daa3f88.jpg",
+    "static/media/mohg.jpg": "/elden-ring-boss-tracker/static/media/mohg.2c961f8af091d105834c.jpg",
     "static/media/rellana.jpg": "/elden-ring-boss-tracker/static/media/rellana.26149b565efbf6c5e433.jpg",
     "static/media/hoarah_loux.jpg": "/elden-ring-boss-tracker/static/media/hoarah_loux.d9cd08e8c8725a786f40.jpg",
     "static/media/radagon.jpg": "/elden-ring-boss-tracker/static/media/radagon.ceab910a5c36b2d2044b.jpg",
@@ -26,14 +29,15 @@
     "static/media/promised_consort_radahn.jpg": "/elden-ring-boss-tracker/static/media/promised_consort_radahn.24f4bb43c26bdf5ded5e.jpg",
     "static/media/midra_lord_of_frenzied_flame.jpg": "/elden-ring-boss-tracker/static/media/midra_lord_of_frenzied_flame.b83f186590d5e1f913db.jpg",
     "static/media/Mantinia Regular.otf": "/elden-ring-boss-tracker/static/media/Mantinia Regular.17509f704db56aefbca6.otf",
+    "static/media/golden_order_logo.jpg": "/elden-ring-boss-tracker/static/media/golden_order_logo.14d54f68e5f5c0ec2344.jpg",
     "static/media/morgott.jpg": "/elden-ring-boss-tracker/static/media/morgott.f7e68ffba37e7832d9e0.jpg",
     "index.html": "/elden-ring-boss-tracker/index.html",
-    "main.4156bfb4.css.map": "/elden-ring-boss-tracker/static/css/main.4156bfb4.css.map",
-    "main.55a8a21a.js.map": "/elden-ring-boss-tracker/static/js/main.55a8a21a.js.map",
+    "main.45090e68.css.map": "/elden-ring-boss-tracker/static/css/main.45090e68.css.map",
+    "main.2f79db62.js.map": "/elden-ring-boss-tracker/static/js/main.2f79db62.js.map",
     "453.72a67bee.chunk.js.map": "/elden-ring-boss-tracker/static/js/453.72a67bee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4156bfb4.css",
-    "static/js/main.55a8a21a.js"
+    "static/css/main.45090e68.css",
+    "static/js/main.2f79db62.js"
   ]
 }
