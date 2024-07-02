@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/elden-ring-boss-tracker/static/css/main.a3a85870.css",
+    "main.css": "/elden-ring-boss-tracker/static/css/main.4156bfb4.css",
     "main.js": "/elden-ring-boss-tracker/static/js/main.55a8a21a.js",
     "static/js/453.72a67bee.chunk.js": "/elden-ring-boss-tracker/static/js/453.72a67bee.chunk.js",
     "static/media/tree_sentinel.jpg": "/elden-ring-boss-tracker/static/media/tree_sentinel.1da8f84a7de2cc7fc8ab.jpg",
@@ -28,12 +28,12 @@
     "static/media/Mantinia Regular.otf": "/elden-ring-boss-tracker/static/media/Mantinia Regular.17509f704db56aefbca6.otf",
     "static/media/morgott.jpg": "/elden-ring-boss-tracker/static/media/morgott.f7e68ffba37e7832d9e0.jpg",
     "index.html": "/elden-ring-boss-tracker/index.html",
-    "main.a3a85870.css.map": "/elden-ring-boss-tracker/static/css/main.a3a85870.css.map",
+    "main.4156bfb4.css.map": "/elden-ring-boss-tracker/static/css/main.4156bfb4.css.map",
     "main.55a8a21a.js.map": "/elden-ring-boss-tracker/static/js/main.55a8a21a.js.map",
     "453.72a67bee.chunk.js.map": "/elden-ring-boss-tracker/static/js/453.72a67bee.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a3a85870.css",
+    "static/css/main.4156bfb4.css",
     "static/js/main.55a8a21a.js"
   ]
 }
