@@ -28,14 +28,15 @@ import Mogh from "./assets/images/mohg.jpg";
 import Malenia from "./assets/images/malenia.jpg";
 import GoldenOrder from "./assets/images/golden_order_logo.jpg";
 import CrucibleKnight from "./assets/images/crucible_knight.jpg";
-
+import Magma from "./assets/images/magma.jpg"
 const baseGameBosses = [
   { name: "tree sentinel", image: TreeSentinel, emoji: "🐴" },
   { name: "margit, the fell omen", image: Margit, emoji: "🪓" },
   { name: "godrick the grafted", image: Godrick, emoji: "🦾" },
   { name: "red wolf of radagon", image: RedWolf, emoji: "🐺" },
   { name: "rennala, queen of the full moon", image: Rennala, emoji: "🌕" },
-  { name: "crucible knight ", image: CrucibleKnight, emoji: "💀" },
+  { name: "crucible knight", image: CrucibleKnight, emoji: "💀" },
+  { name: "magma wyrm makar", image: Magma, emoji: "🌋" },
   { name: "starscourge radahn", image: Radahn, emoji: "⭐" },
   { name: "mogh, lord of blood", image: Mogh, emoji: "🩸" },
   { name: "draconic tree sentinel", image: DraconicTreeSentinel, emoji: "🐲" },
