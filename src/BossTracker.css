@@ -41,7 +41,7 @@ body {
 }
 
 .boss-item:hover {
-  background-color: #ff0000;
+  background-color: #333;
 }
 
 .boss-name {
@@ -56,7 +56,7 @@ body {
   margin-right: 10px;
   border-radius: 50%;
   object-fit: cover; /* Ensures image is cropped to fit */
-  border: 2px solid #ffcc00;
+  border: 2px solid #333;
 }
 
 .button-group {
