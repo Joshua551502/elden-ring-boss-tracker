@@ -29,6 +29,7 @@ import Malenia from "./assets/images/malenia.jpg";
 import GoldenOrder from "./assets/images/golden_order_logo.jpg";
 import CrucibleKnight from "./assets/images/crucible_knight.jpg";
 import Magma from "./assets/images/magma.jpg"
+import FallingStar from "./assets/images/falling_star.jpg";
 const baseGameBosses = [
   { name: "tree sentinel", image: TreeSentinel, emoji: "🐴" },
   { name: "margit, the fell omen", image: Margit, emoji: "🪓" },
@@ -38,6 +39,7 @@ const baseGameBosses = [
   { name: "crucible knight", image: CrucibleKnight, emoji: "💀" },
   { name: "magma wyrm makar", image: Magma, emoji: "🌋" },
   { name: "starscourge radahn", image: Radahn, emoji: "⭐" },
+  { name: "full-grown fallingstar beast", image: FallingStar, emoji: "👹" },
   { name: "mogh, lord of blood", image: Mogh, emoji: "🩸" },
   { name: "draconic tree sentinel", image: DraconicTreeSentinel, emoji: "🐲" },
   { name: "morgott, the omen king", image: Morgott, emoji: "👑" },
