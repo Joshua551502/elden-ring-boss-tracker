@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/elden-ring-boss-tracker/static/css/main.45090e68.css",
-    "main.js": "/elden-ring-boss-tracker/static/js/main.b2954390.js",
+    "main.js": "/elden-ring-boss-tracker/static/js/main.ed48dcb8.js",
     "static/js/453.72a67bee.chunk.js": "/elden-ring-boss-tracker/static/js/453.72a67bee.chunk.js",
     "static/media/tree_sentinel.jpg": "/elden-ring-boss-tracker/static/media/tree_sentinel.1da8f84a7de2cc7fc8ab.jpg",
     "static/media/draconic_tree_sentinel.jpg": "/elden-ring-boss-tracker/static/media/draconic_tree_sentinel.97741021648687853dda.jpg",
     "static/media/maliketh.jpg": "/elden-ring-boss-tracker/static/media/maliketh.ca83b41365c14a6e35aa.jpg",
     "static/media/malenia.jpg": "/elden-ring-boss-tracker/static/media/malenia.da86bf76f35e84a5a5d4.jpg",
+    "static/media/falling_star.jpg": "/elden-ring-boss-tracker/static/media/falling_star.fa31cff8222cd8f356db.jpg",
     "static/media/commander_gaius.jpg": "/elden-ring-boss-tracker/static/media/commander_gaius.b7fcb182fa056fae443d.jpg",
     "static/media/radahn.jpg": "/elden-ring-boss-tracker/static/media/radahn.30fff1a34865edcdeb65.jpg",
     "static/media/bayle_the_dread.jpg": "/elden-ring-boss-tracker/static/media/bayle_the_dread.3027ea269e87e881508a.jpg",
@@ -35,11 +36,11 @@
     "static/media/morgott.jpg": "/elden-ring-boss-tracker/static/media/morgott.f7e68ffba37e7832d9e0.jpg",
     "index.html": "/elden-ring-boss-tracker/index.html",
     "main.45090e68.css.map": "/elden-ring-boss-tracker/static/css/main.45090e68.css.map",
-    "main.b2954390.js.map": "/elden-ring-boss-tracker/static/js/main.b2954390.js.map",
+    "main.ed48dcb8.js.map": "/elden-ring-boss-tracker/static/js/main.ed48dcb8.js.map",
     "453.72a67bee.chunk.js.map": "/elden-ring-boss-tracker/static/js/453.72a67bee.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45090e68.css",
-    "static/js/main.b2954390.js"
+    "static/js/main.ed48dcb8.js"
   ]
 }
