@@ -28,8 +28,11 @@ import Mogh from "./assets/images/mohg.jpg";
 import Malenia from "./assets/images/malenia.jpg";
 import GoldenOrder from "./assets/images/golden_order_logo.jpg";
 import CrucibleKnight from "./assets/images/crucible_knight.jpg";
-import Magma from "./assets/images/magma.jpg"
+import Magma from "./assets/images/magma.jpg";
 import FallingStar from "./assets/images/falling_star.jpg";
+import Godfrey from "./assets/images/godfrey.jpg";
+import SirGideon from "./assets/images/sir_gideon.jpg";
+
 const baseGameBosses = [
   { name: "tree sentinel", image: TreeSentinel, emoji: "🐴" },
   { name: "margit, the fell omen", image: Margit, emoji: "🪓" },
@@ -42,11 +45,17 @@ const baseGameBosses = [
   { name: "full-grown fallingstar beast", image: FallingStar, emoji: "👹" },
   { name: "mogh, lord of blood", image: Mogh, emoji: "🩸" },
   { name: "draconic tree sentinel", image: DraconicTreeSentinel, emoji: "🐲" },
+  { name: "godfrey, the first elden lord", image: Godfrey, emoji: "🤴" },
   { name: "morgott, the omen king", image: Morgott, emoji: "👑" },
   { name: "fire giant", image: FireGiant, emoji: "🔥" },
   { name: "godskin duo", image: GodskinDuo, emoji: "👥" },
   { name: "maliketh, the black blade", image: Maliketh, emoji: "⚔️" },
   { name: "malenia, blade of miquella", image: Malenia, emoji: "🌸" },
+  {
+    name: "sir gideon ofnir, the all-knowing",
+    image: SirGideon,
+    emoji: "📖",
+  },
   {
     name: "hoarah loux (godfrey, first elden lord)",
     image: HoarahLoux,
