@@ -32,6 +32,7 @@ import Magma from "./assets/images/magma.jpg";
 import FallingStar from "./assets/images/falling_star.jpg";
 import Godfrey from "./assets/images/godfrey.jpg";
 import SirGideon from "./assets/images/sir_gideon.jpg";
+import GoldenHippo from "./assets/images/golden_hippo.jpeg";
 
 const baseGameBosses = [
   { name: "tree sentinel", image: TreeSentinel, emoji: "🐴" },
@@ -75,6 +76,7 @@ const dlcBosses = [
     emoji: "🦁",
   },
   { name: "rellana, twin moon knight", image: Rellana, emoji: "🌙" },
+  { name: "golden hippopotamus", image: GoldenHippo, emoji: "🦛" },
   { name: "putrescent knight", image: PutrescentKnight, emoji: "💀" },
   { name: "messmer the impaler", image: MessmerTheImpaler, emoji: "🗡️" },
   { name: "commander gaius", image: CommanderGaius, emoji: "⚔️" },
